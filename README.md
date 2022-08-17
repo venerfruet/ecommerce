@@ -2,4 +2,4 @@
 
 experimente em
 
-[venerfruet/dioshopping](https://venerfruet.github.io/ecommerce/)
+https://venerfruet.github.io/ecommerce/
