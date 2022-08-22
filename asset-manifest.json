@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.js": "/ecommerce/static/js/main.f37e7f40.js",
+    "main.js": "/ecommerce/static/js/main.217e7851.js",
     "static/media/construcao.png": "/ecommerce/static/media/construcao.4ea9ca17aaabd0731402.png",
     "static/media/vsc.png": "/ecommerce/static/media/vsc.b9fc735058383d1374cb.png",
     "static/media/oriobjjavascript.png": "/ecommerce/static/media/oriobjjavascript.6e1206579d848e704e2a.png",
+    "static/media/debuggingerrorjs.png": "/ecommerce/static/media/debuggingerrorjs.d2ec8025969f98011c37.png",
     "static/media/domjavascript.png": "/ecommerce/static/media/domjavascript.e00712ba0f4608b93e7a.png",
     "static/media/installnodejs.png": "/ecommerce/static/media/installnodejs.5009344a0dac24b6e59d.png",
     "static/media/html5css3.png": "/ecommerce/static/media/html5css3.3cd2c6c2c22605f4c9a3.png",
     "static/media/sejaprotagosnista.png": "/ecommerce/static/media/sejaprotagosnista.85b03496b683d86397ed.png",
     "static/media/jesttdd.png": "/ecommerce/static/media/jesttdd.084349f5f46d7a7652e8.png",
+    "static/media/protocolosinternet.png": "/ecommerce/static/media/protocolosinternet.0c532c22a059757a1088.png",
+    "static/media/variaveitiposjs.png": "/ecommerce/static/media/variaveitiposjs.dd7da362a6c31477630c.png",
     "static/media/logo.png": "/ecommerce/static/media/logo.8f8a0933cc91995b6976.png",
     "static/media/javascriptassinc.png": "/ecommerce/static/media/javascriptassinc.f7f682f71a40347abbbc.png",
     "static/media/computacional.png": "/ecommerce/static/media/computacional.9b887979717b99a935be.png",
@@ -20,9 +23,9 @@
     "static/media/ExodarOutline.woff": "/ecommerce/static/media/ExodarOutline.6908cb9f2f1f7963acaf.woff",
     "static/media/ExodarOutline.woff2": "/ecommerce/static/media/ExodarOutline.bfb27c2cf2d98c8dd150.woff2",
     "index.html": "/ecommerce/index.html",
-    "main.f37e7f40.js.map": "/ecommerce/static/js/main.f37e7f40.js.map"
+    "main.217e7851.js.map": "/ecommerce/static/js/main.217e7851.js.map"
   },
   "entrypoints": [
-    "static/js/main.f37e7f40.js"
+    "static/js/main.217e7851.js"
   ]
 }
